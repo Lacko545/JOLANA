@@ -1,0 +1,5 @@
+#!/bin/bash
+wd=$(pwd);
+cd ~/.jolana/;
+./jolana.sh;
+cd $wd;
